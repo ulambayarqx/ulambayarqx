@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ulambayarqx
-- 👀 I’m interested in phyton
 - 🌱 I’m currently learning phyton
